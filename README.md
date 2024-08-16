@@ -1,10 +1,10 @@
 # KEML sample
 
-This project holds sample files on which you can try out the different KEML modules. You can explore all files these modules generate on a dedicated folder **case-study-log4j**.
+This project holds sample files on which you can try out the different KEML modules. We prepared to conversations from our first case study (log4j) with all corresponding files as **introductoryExamples** in a folder with that name.
 You can run the KEML code on it to re-generate files and compare the content (most convenient with `git diff`).
 
 ## Expected Folder Structure
-All modules of KEML make basic assumptions on where their input files are located relative to a base (topic) folder and where to write their files to.
+All modules of KEML make basic assumptions on where their input files are located relative to a base (topic) folder and where to write their files to (in our case that is introductoryExamples.
 The following folder/file names have a dedicated meaning and files within might be overwritten when running KEML code:
 
 - **conv.json**: original conversations in one JSON file as exported from ChatGPT
