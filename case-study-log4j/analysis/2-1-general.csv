@@ -1,0 +1,11 @@
+MessagePart
+"",LLM
+SendMsg,12
+ReceiveMsg,12
+Interrupted,2
+
+KnowledgePart
+Information,LLM,Author
+Facts,5,1
+Instructions,6,0
+Repetitions,7
