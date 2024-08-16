@@ -17,4 +17,4 @@ The following folder/file names have a dedicated meaning and files within might 
 More details on assumptions on those files and generation mechanisms are available on the repsective repositories.
 
 ## License
-The license of this project is that of the [group](https://github.com/keml-group).
+The samples project is subject to (C) 2023-2024, SoftLang Research Team, University of Koblenz, Faculty of CS, contact Susanne Göbel or Ralf Lämmel. Restricted access. Do not share. Access is currently only granted by the copyright holders as part of research and teaching activities involving the SoftLang Team at the University of Koblenz. Less restricting sharing and copy righting is deferred for now.
